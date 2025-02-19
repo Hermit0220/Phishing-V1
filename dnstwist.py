@@ -2,11 +2,7 @@
 # -*- coding: utf-8 -*-
 
 r'''
-     _           _            _     _
-  __| |_ __  ___| |___      _(_)___| |_
- / _` | '_ \/ __| __\ \ /\ / / / __| __|
-| (_| | | | \__ \ |_ \ V  V /| \__ \ |_
- \__,_|_| |_|___/\__| \_/\_/ |_|___/\__|
+
 
 Generate and resolve domain variations to detect typo squatting,
 phishing and corporate espionage.
